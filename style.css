@@ -1,0 +1,279 @@
+@font-face {
+    font-family: 'social-icon-font';
+    src: url('../social-icon-font.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+html {
+	padding: 0px;
+}
+
+body {
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url(img/ice.jpg);
+	background-color: black;
+	-webkit-background-size: cover;
+	background-attachment: fixed;
+	/*
+//	min-height: 100%;
+	min-width: 100%;
+	padding: 0px;
+	margin: 0px;
+	max-height: 100%;
+	position: absolute;
+	position: absolute;
+	width: 100%;
+	*/
+}
+
+#layer {
+    /* background-color: rgba(248, 247, 216, 0.7); */
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: -10;
+    height: 100%;
+}
+
+h1 {
+	font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	font-size: 72px;
+	font-weight: 400;
+	margin-top: 90px;
+	margin-right: 18px;
+	margin-bottom: 0px;
+}
+
+p {
+	font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	font-weight: normal;
+	letter-spacing: normal;
+	display: block;
+
+}
+
+.card {
+	margin-top: 100px;
+	-webkit-user-select: none;
+	color: rgb(255, 255, 255);
+	cursor: default;
+	display: block;
+	font-family:'Arial';
+	font-size: 13px;
+	font-style: normal;
+	font-weight: 300;
+	height: 134px;
+	line-height: 21px;
+	margin-bottom: 18px;
+	text-align: center;
+}
+
+.block {
+	color: white;
+	background-color: white; 
+	width:400px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.card .marketing-sub-title {
+	color: rgb(255, 255, 255);
+cursor: default;
+display: inline-block;
+font-family: 'Chronicle SSm A', 'Chronicle SSm B', Georgia, serif;
+font-size: 21px;
+font-style: italic;
+font-weight: normal;
+height: 21px;
+line-height: 21px;
+margin-bottom: 10px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 10px;
+opacity: 0.699999988079071;
+text-align: center;
+}
+
+.card .marketing-title {
+	color: rgb(255, 255, 255);
+cursor: default;
+display: block;
+font-family: 'Gotham A', 'Gotham B', sans-serif;
+font-size: 72px;
+font-style: normal;
+font-weight: 500;
+height: 72px;
+line-height: 72px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 0px;
+position: relative;
+text-align: center;
+text-transform: uppercase;
+}
+
+.card.marketing-title-text {
+	color: rgb(255, 255, 255);
+	cursor: default;
+	display: inline;
+	font-family: 'Gotham A', 'Gotham B', sans-serif;
+	font-size: 72px;
+	font-style: normal;
+	font-weight: 500;
+	height: auto;
+	line-height: 72px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.card h2 {
+	color: rgb(68, 113, 167);
+	font-size: 15px;
+	line-height: 21px;
+	font-weight: 500;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	padding: 5px;
+	text-align: center;
+	max-width: 400px;
+}
+
+.card a {
+	color: white;
+	line-height: 35px;
+}
+
+nav {
+color: rgb(21, 23, 26);
+display: block;
+font-family: 'Source Sans Pro', Tahoma, Arial, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: normal;
+height: 47px;
+letter-spacing: normal;
+line-height: 22px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 30px;
+padding-top: 30px;
+position: absolute;
+right: 0px;
+text-decoration: none;
+text-transform: none;
+top: 0px;
+width: 248px;
+}
+
+nav ul {
+color: rgb(21, 23, 26);
+display: block;
+font-family: 'Source Sans Pro', Tahoma, Arial, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: normal;
+height: 47px;
+letter-spacing: normal;
+line-height: 22px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 0px;
+text-align: right;
+text-decoration: none;
+text-transform: none;
+}
+
+nav ul li {
+	list-style-type: none;
+	
+	display: inline-block;
+	text-align: right;
+	margin: 0 0 1em 1em;
+	font-family: 'social-icon-font';
+
+}
+
+nav ul li a {
+	color: rgb(255, 255, 255);
+	text-decoration: none;
+	font-size: 28px;
+}
+
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+a:hover {
+	color: rgba(68,113,166,1);
+}
+
+.social-github:before {
+    content: "\e03a";
+}
+
+.social-twitter:before {
+	content: "\e00e";
+}
+
+/* Fading */
+
+/* make keyframes that tell the start state and the end state of our object */
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+ 
+.fade-in {
+    opacity:0;  /* make things invisible upon start */
+    -webkit-animation:fadeIn ease-in 1;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+    -moz-animation:fadeIn ease-in 1;
+    animation:fadeIn ease-in 1;
+ 
+    -webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+    -moz-animation-fill-mode:forwards;
+    animation-fill-mode:forwards;
+ 
+    -webkit-animation-duration:1s;
+    -moz-animation-duration:1s;
+    animation-duration:1s;
+}
+ 
+.fade-in.one {
+-webkit-animation-delay: 0.7s;
+-moz-animation-delay: 0.7s;
+animation-delay: 0.7s;
+}
+ 
+.fade-in.two {
+-webkit-animation-delay: 1.2s;
+-moz-animation-delay:1.2s;
+animation-delay: 1.2s;
+}
+ 
+.fade-in.three {
+-webkit-animation-delay: 1.6s;
+-moz-animation-delay: 1.6s;
+animation-delay: 1.6s;
+}
+
+
