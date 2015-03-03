@@ -1,7 +1,7 @@
 article,
 .comments {
   @extend %padding-regular;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 0px solid $border-color;
   float: left;
   width: 100%;
 }
