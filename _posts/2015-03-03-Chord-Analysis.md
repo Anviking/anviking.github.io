@@ -4,7 +4,7 @@ title: Chord Analysis of Germany's Wierdest Song
 ---
 If this blog is not a blog, then this is not a complete blog post. Keep that in mind when we look at the Phillip-Glass-fast-food chords of the less tastefully named song Dicke Titten Kartoffelsalat by Ikke Hüftgold.
 
-As with many songs I heared it somewhere, fell foolishly for the chords, and had to investigate. Here is a link to the [Hooktheory analysis](http://www.hooktheory.com/theorytab/view/ikke-huftgold/-dicke-titten-kartoffelsalat)).
+As with many songs I heared it somewhere, fell foolishly for the chords, and had to investigate. Here is a link to the [Hooktheory analysis](http://www.hooktheory.com/theorytab/view/ikke-huftgold/-dicke-titten-kartoffelsalat).
 
 ### Verse
 `B - F`
