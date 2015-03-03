@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chord Analysis of Germany's Darkest Song
+title: Chord Analysis of Germany's Wierdest Song
 ---
 If this blog is not a blog, then this is not a complete blog post. Keep that in mind when we look at the Phillip-Glass-fast-food chords of the less tastefully named song Dicke Titten Kartoffelsalat by Ikke Hüftgold.
 
