@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
@@ -19,6 +21,14 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
+
+h1 {
+	font-family: 'Gotham A', 'Gotham B', sans-serif;
+	font-size: 72px;
+	font-style: normal;
+	font-weight: 500;	
+}
+
 a {
   color: #404040;
 }
