@@ -5,8 +5,8 @@ url: "http://example.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
-  avatar: avatar.png
+  title: Johannes Lund
+  avatar:
   gravatar: # email md5 hash
   description: "A website with blog posts and pages" # used by search engines
   
