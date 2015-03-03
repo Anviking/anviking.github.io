@@ -4,7 +4,7 @@ title: Chord Analysis of Germany's Darkest Song
 ---
 If this blog is not a blog, then this is not a complete blog post. Keep that in mind when we look at the fast-food chords of the less tastefully named song Dicke Titten Kartoffelsalat by Ikke Hüftgold.
 
-I headed this song at Forsen's stream, and fell foolishly for the chords, and had to investigate. Here is a link to the [Hooktheory analysis]((link to hooktheory)](http://www.hooktheory.com/theorytab/view/ikke-huftgold/-dicke-titten-kartoffelsalat)).
+As with many songs I heared it somewhere, fell foolishly for the chords, and had to investigate. Here is a link to the [Hooktheory analysis]((link to hooktheory)](http://www.hooktheory.com/theorytab/view/ikke-huftgold/-dicke-titten-kartoffelsalat)).
 
 ### Verse
 `B - F`
