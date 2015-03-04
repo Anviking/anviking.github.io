@@ -15,7 +15,7 @@ As with many songs I heared it somewhere, fell foolishly for the chords, and had
 
 `g#m - E - B - D#`
 
-`i/iv - VI/iv - III/iv - V/iv`
+`i/vi - VI/vi - III/vi - V/vi`
 
 There is basically only one thing to note here. After an array of two-sized major chord-tuples (programming jargon, not music theory) we arrive at the bridge – the `B` in `AABA`. To our great surprise we are greeted by a `vi`-chord (`g#m`). The key has changed to B's relative minor, and we get a `i-VI-III-V`-progression, which is the same lovable chords that [Philip Glass](http://youtu.be/nNiOqa1nWgI?t=34s) uses to make anything sound awesome.
 
