@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Silly variation of femenist song or what am I doing with my life.
+title: Silly variation of femenist song - or - what am I doing with my life.
 ---
 
 While reading news a couple of days ago I stubled across a catchy femenism-song. It is now then night before monday, 01:40 with school tomorrow, and I just made this. Don't asky me why I've dug myself in to chords recently – it's not like I have don't have anything to do.
