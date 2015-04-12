@@ -3,7 +3,7 @@ layout: post
 title: Not Studying
 ---
 
-So, in stead of reading about astrobiology, I decided to play around with my electric violin and Logic. I stumbled over Mozart's Dies Irae on Youtube and considered it to be a appropriate challenge.
+So, in stead of reading about astrobiology, I decided to play around with my electric violin and Logic. I stumbled over Dies Irae on Youtube and considered it to be a appropriate challenge.
 
 I didn't learn it well enough to do it in one take, so it's split in 4 bar sections. And there is something about the audio and my finger-placement that isn't 100%, but at least the voices aren't completely out of synch, as they were when I was 12 and tried the same thing but with an acoustic violin.
 
