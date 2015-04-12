@@ -1,11 +1,16 @@
-// NO: ---
+NO ---
 layout: page
-title: About
+title: Work
 permalink: /about/
-feature-img: "img/ice.jpg"
+#feature-img: "img/ice.jpg"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+## MathCalc
+
+![test](/img/mathcalc.png)
+
+
+MathCalc was my first iOS application. I made it 
 
 Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
 

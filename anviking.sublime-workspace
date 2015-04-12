@@ -526,6 +526,17 @@
 				"buffer_size": 1510,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"contents": "---\nlayout: post\ntitle: Silly variation of femenist song - or - what am I doing with my life?\n---\n\nWhile reading news a couple of days ago I stubled across a catchy femenism-song. It is now then night before monday, 01:40 with school tomorrow, and I just made this. Don't asky me why I've dug myself in to chords recently – it's not1 like I have don't have anything to do.\n\nAnyways, time to sleep, good night!\n\n<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/194920158&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false\"></iframe>",
+			"file": "_posts/2015-03-09-Silly variation of femenist song - or - what am I doing with my life?.md",
+			"file_size": 701,
+			"file_write_time": 130703359200000000,
+			"settings":
+			{
+				"buffer_size": 700,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -535,10 +546,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 203.0,
-		"last_filter": "preview",
+		"height": 135.0,
+		"last_filter": "push",
 		"selected_items":
 		[
+			[
+				"push",
+				"git: push"
+			],
+			[
+				"stat",
+				"git: status"
+			],
+			[
+				"commit",
+				"git: commit including unstaged files"
+			],
 			[
 				"preview",
 				"Markdown Preview: Preview in Browser"
@@ -644,7 +667,7 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 583.0
+		"width": 457.0
 	},
 	"console":
 	{
@@ -670,6 +693,7 @@
 	],
 	"file_history":
 	[
+		"/Users/Johannes/Developer/anviking.github.io/_posts/2015-03-09-Variation",
 		"/Users/Johannes/Developer/anviking.github.io/anviking.sublime-project",
 		"/Users/Johannes/Developer/anviking.github.io/README.md",
 		"/Users/Johannes/Developer/anviking.github.io/_posts/2015-03-02-Not-a-blog.md",
@@ -796,8 +820,7 @@
 		"/Users/Johannes/Developer/Stocks/source/strategy.py",
 		"/Users/Johannes/Developer/Stocks/source/swarm/changePercentage_HyperSearchJobID.pkl",
 		"/Users/Johannes/Developer/Stocks/source/swarm/shouldBuy_HyperSearchJobID.pkl",
-		"/Users/Johannes/Developer/Stocks/source/graph.py",
-		"/Users/Johannes/Developer/Stocks/source/run.py"
+		"/Users/Johannes/Developer/Stocks/source/graph.py"
 	],
 	"find":
 	{
@@ -929,7 +952,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -945,15 +968,47 @@
 						"selection":
 						[
 							[
-								646,
-								646
+								172,
+								172
 							]
 						],
 						"settings":
 						{
+							"git_savvy.file_path": "/Users/Johannes/Developer/anviking.github.io/_posts/2015-03-03-Chord-Analysis.md",
+							"git_savvy.repo_path": "/Users/Johannes/Developer/anviking.github.io",
 							"parser": "github",
 							"syntax": "Packages/Markdown/Markdown.tmLanguage",
 							"target": "disk"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2015-03-09-Silly variation of femenist song - or - what am I doing with my life?.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 700,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"git_savvy.file_path": "/Users/Johannes/Developer/anviking.github.io/_posts/2015-03-09-Variation",
+							"git_savvy.repo_path": "/Users/Johannes/Developer/anviking.github.io",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -996,6 +1051,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 92.0
+	},
 	"output.exec":
 	{
 		"height": 388.0
@@ -1008,6 +1067,7 @@
 	{
 		"height": 92.0
 	},
+	"pinned_build_system": "",
 	"project": "anviking.sublime-project",
 	"replace":
 	{
