@@ -1,0 +1,128 @@
+
+.site-header {
+  @extend %padding-small;
+  background: $brand-color;
+  border-bottom: 1px solid $border-color;
+  display: inline-block;
+  float: left;
+  width: 100%;
+  background-image: url("../img/ice.jpg");
+  background-position: left 0%;
+  background-size: cover;
+  font-weight: 500px;
+  height: 300px;
+
+  h3 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-family: 'Chronicle SSm A', 'Chronicle SSm B', Georgia, serif;
+    font-size: 21px;
+    font-style: italic;
+    font-weight: normal;
+    margin-top: 50px;
+    opacity: 0.8;
+    margin-bottom: 0px;
+  }
+  h1 {
+    color: rgb(255, 255, 255);
+    cursor: default;
+    display: block;
+    font-family: 'Gotham Afs', 'Gotham Ba', sans-serif;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 500;
+    height: 72px;
+    line-height: 72px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+
+    a {
+      color: white;
+    }
+    a:hover {
+    color: #4471A6;
+    }
+  }
+
+  p {
+    text-align: center;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #4471A6;
+    font-size: 16px;
+  }
+
+
+  
+  a {
+    color: $header-link-color;
+  }
+
+  a:hover {
+    color: #4471A6;
+  }
+  
+  .avatar {
+    height: 2em;
+    width: 2em;
+    float: left;
+    margin-top: -3px;
+    border-radius: 0.2em;
+    margin-right: 1em;
+  }
+  
+  .site-title {
+    float: left;
+    font-weight: bold;
+    font-size: 1em;
+    line-height: 1.5;
+  }
+
+  .site-nav {
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      font-size: 28px;
+      float: right;
+      text-align: right;
+    }
+
+    li {
+      display: inline;
+      float: left;
+      margin-right: 20px;
+      a {
+        color: white;
+      }
+    }
+    @media (max-width: 100px) {
+      ul {
+        display: inline-block;
+        float: left;
+        padding-top: $padding-small;
+        text-align: left;
+        width: 100%;
+      } 
+    }
+  }
+}
+
+@media (max-width: 900px) {
+  .site-header {
+    //height: 400px;
+    background-size: 250%;
+  }
+}

@@ -1,0 +1,1493 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ax",
+				"ax1	(statement)"
+			],
+			[
+				"ye",
+				"year"
+			],
+			[
+				"al",
+				"allTrades	(statement)"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"sel",
+				"self	(param)"
+			],
+			[
+				"best",
+				"bestValue"
+			],
+			[
+				"pred",
+				"predictedField	(statement)"
+			],
+			[
+				"hi",
+				"highModel	(statement)"
+			],
+			[
+				"mod",
+				"modelParams	(function)"
+			],
+			[
+				"dum",
+				"dumps	(function)"
+			],
+			[
+				"sw",
+				"swarmSize	(statement)"
+			],
+			[
+				"hig",
+				"highPrediction"
+			],
+			[
+				"to",
+				"toordinal	(function)"
+			],
+			[
+				"hih",
+				"highModel"
+			],
+			[
+				"rea",
+				"read	(function)"
+			],
+			[
+				"read",
+				"readlines	(function)"
+			],
+			[
+				"low",
+				"lowPrediction"
+			],
+			[
+				"b",
+				"buyPrice"
+			],
+			[
+				"mo",
+				"movingAverage	statement"
+			],
+			[
+				"mov",
+				"movingAverageAnomaly	statement"
+			],
+			[
+				"monv",
+				"movingAverageAnomaly"
+			],
+			[
+				"iter",
+				"itervalues	function"
+			],
+			[
+				"it",
+				"itervalues	function"
+			],
+			[
+				"def",
+				"defaultResult	function"
+			],
+			[
+				"default",
+				"defaultdict"
+			],
+			[
+				"ga",
+				"gauss	statement"
+			],
+			[
+				"act",
+				"activeColumns	statement"
+			],
+			[
+				"source",
+				"sourceOut"
+			],
+			[
+				"getPu",
+				"getOutputData	function"
+			],
+			[
+				"tempo",
+				"temporalPoolerRegion	statement"
+			],
+			[
+				"senso",
+				"sensorRegion	statement"
+			],
+			[
+				"nex",
+				"nextDayChange	statement"
+			],
+			[
+				"wri",
+				"writerow"
+			],
+			[
+				"ret",
+				"retinaStringForText	function"
+			],
+			[
+				"nupi",
+				"nupic	module"
+			],
+			[
+				"encode",
+				"encoders	statement"
+			],
+			[
+				"anom",
+				"anomalyScore	statement"
+			],
+			[
+				"enc",
+				"encoders	statement"
+			],
+			[
+				"encoder",
+				"encoders"
+			],
+			[
+				"data",
+				"DataSource	(class)"
+			],
+			[
+				"pas",
+				"pass_through_encoder	import"
+			],
+			[
+				"price",
+				"priceEncoder	statement"
+			],
+			[
+				"cre",
+				"createEncoder	function"
+			],
+			[
+				"sparse",
+				"sparse_pass_through_encoder	import"
+			],
+			[
+				"Data",
+				"DataSource	class"
+			],
+			[
+				"json",
+				"json_data	statement"
+			],
+			[
+				"file",
+				"filename	param"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"date",
+				"datetime	class"
+			],
+			[
+				"ge",
+				"getTextFromBitVector	statement"
+			],
+			[
+				"get",
+				"get_hex_string_from_bitvector	function"
+			],
+			[
+				"write",
+				"writerow	function"
+			],
+			[
+				"bad",
+				"badWords	statement"
+			],
+			[
+				"good",
+				"goodWords	statement"
+			],
+			[
+				"twe",
+				"tweet	forflow"
+			],
+			[
+				"str",
+				"string	statement"
+			],
+			[
+				"close",
+				"closedTrades	statement"
+			],
+			[
+				"aver",
+				"averageLenghts"
+			],
+			[
+				"chan",
+				"changePercentageAnomaly	param"
+			],
+			[
+				"per",
+				"predictedChangePercentage	param"
+			],
+			[
+				"hex",
+				"hexRetinaForText	function"
+			],
+			[
+				"goo",
+				"goodString	statement"
+			],
+			[
+				"retin",
+				"retinaForText	function"
+			],
+			[
+				"clos",
+				"close"
+			],
+			[
+				"dow",
+				"download	function"
+			],
+			[
+				"max",
+				"maxID	statement"
+			],
+			[
+				"ma",
+				"maxID	statement"
+			],
+			[
+				"stat",
+				"statuses	statement"
+			],
+			[
+				"out",
+				"outputFilePath	function"
+			],
+			[
+				"ou",
+				"outputDirectory	statement"
+			],
+			[
+				"prof",
+				"profitPerYear	param"
+			],
+			[
+				"figure",
+				"figure	function"
+			],
+			[
+				"len",
+				"lengths	statement"
+			],
+			[
+				"buy",
+				"buyDate"
+			],
+			[
+				"targ",
+				"targetHighSellFactor	param"
+			],
+			[
+				"year",
+				"years	statement"
+			],
+			[
+				"rel",
+				"relativeProfit"
+			],
+			[
+				"dic",
+				"dictionary	forflow"
+			],
+			[
+				"rela",
+				"relativeProfit"
+			],
+			[
+				"ty",
+				"try	Try/Except"
+			],
+			[
+				"predic",
+				"predictions	statement"
+			],
+			[
+				"lo",
+				"lowAnomaly"
+			],
+			[
+				"high",
+				"highf	function"
+			],
+			[
+				"tar",
+				"targetHigh	statement"
+			],
+			[
+				"csv",
+				"csvReader	statement"
+			],
+			[
+				"Downl",
+				"downloadAndRun	function"
+			],
+			[
+				"down",
+				"download	function"
+			],
+			[
+				"in",
+				"inferences"
+			],
+			[
+				"shoul",
+				"shouldBuyAnomaly	statement"
+			],
+			[
+				"shou",
+				"shouldBuyAnomaly"
+			],
+			[
+				"STo",
+				"STOCK_MIN	statement"
+			],
+			[
+				"STO",
+				"STOCK_MAX	statement"
+			],
+			[
+				"swarm",
+				"swarmSize	statement"
+			],
+			[
+				"sh",
+				"swarmShouldBuy	function"
+			],
+			[
+				"obj",
+				"objects	statement"
+			],
+			[
+				"mode",
+				"modelParamsString	statement"
+			],
+			[
+				"change",
+				"changePercentage"
+			],
+			[
+				"pro",
+				"profit"
+			],
+			[
+				"trade",
+				"tradePrice	statement"
+			],
+			[
+				"trae",
+				"tradePrice	statement"
+			],
+			[
+				"target",
+				"targetLow	statement"
+			],
+			[
+				"from",
+				"fromtimestamp	function"
+			],
+			[
+				"swr",
+				"swarm"
+			],
+			[
+				"changeper",
+				"changePercentagePredictions	statement"
+			],
+			[
+				"Pred",
+				"PredictionSwarm	class"
+			],
+			[
+				"predi",
+				"predictedHigh5"
+			],
+			[
+				"swar",
+				"swarmSize	param"
+			],
+			[
+				"inp",
+				"inputPath"
+			],
+			[
+				"outp",
+				"outputName"
+			],
+			[
+				"opn",
+				"openTrades	statement"
+			],
+			[
+				"open",
+				"openTrades	statement"
+			],
+			[
+				"pre",
+				"predictedLow5	param"
+			],
+			[
+				"has",
+				"hasStocks	statement"
+			],
+			[
+				"obje",
+				"objects	statement"
+			],
+			[
+				"last",
+				"lastObject	statement"
+			],
+			[
+				"final",
+				"finalDictionary	statement"
+			],
+			[
+				"inpu",
+				"inputDictionary	statement"
+			],
+			[
+				"model",
+				"model	forflow"
+			],
+			[
+				"tr",
+				"try	Try/Except"
+			],
+			[
+				"wr",
+				"writeObjectsToCSV	function"
+			],
+			[
+				"hea",
+				"headers	statement"
+			],
+			[
+				"header",
+				"headers	statement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_posts/2015-03-03-Chord-Analysis.md",
+			"settings":
+			{
+				"buffer_size": 1510,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "---\nlayout: post\ntitle: Silly variation of femenist song - or - what am I doing with my life?\n---\n\nWhile reading news a couple of days ago I stubled across a catchy femenism-song. It is now then night before monday, 01:40 with school tomorrow, and I just made this. Don't asky me why I've dug myself in to chords recently – it's not1 like I have don't have anything to do.\n\nAnyways, time to sleep, good night!\n\n<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/194920158&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false\"></iframe>",
+			"file": "_posts/2015-03-09-Silly variation of femenist song - or - what am I doing with my life?.md",
+			"file_size": 701,
+			"file_write_time": 130703359200000000,
+			"settings":
+			{
+				"buffer_size": 700,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2015-04-12-Not Studying.md",
+			"settings":
+			{
+				"buffer_size": 1013,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nGitSavvy:\n--------\n\n  # GitSavvy 2.0\n  \n  Things have been moving a bit more slowly with GitSavvy lately, but 2.0 brings\n  a significant new feature: the **rebase dashboard**.\n  \n  The dashboard will show all commits made since the last common ancestor.  You\n  can take action on those commits, including the ability to re-order, edit\n  commit messages, and squash.  Once you've started an actual rebase (this is\n  distinguished from the other actions in the dashboard), any conflicts will\n  be displayed and you'll have options for resolving.\n  \n  If you've used `git rebase --interactive` from the terminal, there may be one surprise in that all actions take _immediate_ effect.  However, the dashboard\n  also supports unlimited Undo/Redo.  The goal is to make rebase accessible for\n  users that aren't familiar - if you have any UX feedback, please open an issue.\n  \n  Changes since 1.4.1:\n  \n    Features:\n     - Rebase dashboard, including re-ordering, squashing, message editing, conflict resolution, and undo/redo.\n  \n    Enhancement:\n     - Add option to append customized message to the default commit help.\n  \n    UX:\n     - Move unstaged and untracked sections to top of status dashboard.\n     - Don't include `--no-columns` flag on `git branch`.\n     - Add space in `git: merge` palette between branch name and tracking info.\n  \n    Bug:\n     - Native line-ending was used on Windows when autocrlf is false.\n     - When staging directory, ignored files were also staged.\n     - Status dashboard would not display after `git init`.\n     - Update key-bindings on Linux to use CTRL-* instead of SUPER-*.\n     - Status dashboard failed to render; stash list didn't include \"WIP on branchname\".\n  \n    Contributors:\n     - Dale Bustad\n     - old9\n  \n     ",
+			"settings":
+			{
+				"buffer_size": 1813,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		},
+		{
+			"file": "about.md",
+			"settings":
+			{
+				"buffer_size": 499,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "pus",
+		"selected_items":
+		[
+			[
+				"pus",
+				"git: push"
+			],
+			[
+				"stat",
+				"git: status"
+			],
+			[
+				"git dif",
+				"git: diff"
+			],
+			[
+				"commi",
+				"git: quick commit"
+			],
+			[
+				"spell",
+				"Google Spell Check"
+			],
+			[
+				"push",
+				"git: push"
+			],
+			[
+				"commit",
+				"git: commit including unstaged files"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"vagr",
+				"Anaconda: Vagrant Enable"
+			],
+			[
+				"vagra",
+				"Anaconda: Vagrant Reload"
+			],
+			[
+				"anac",
+				"Anaconda: Vagrant Init"
+			],
+			[
+				"anaconda",
+				"Anaconda: Vagrant Reload"
+			],
+			[
+				"selec",
+				"Bookmarks: Select All"
+			],
+			[
+				"select ",
+				"Bookmarks: Select Next"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"",
+				"Anaconda: Show error list"
+			],
+			[
+				"error",
+				"Anaconda: Show error list"
+			],
+			[
+				"anaconda err",
+				"Anaconda: Show error list"
+			],
+			[
+				"anacon err",
+				"Anaconda: Show error list"
+			],
+			[
+				"anaconda form",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"anaconda sho",
+				"Anaconda: Show error list"
+			],
+			[
+				"anacon",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"auto",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Johannes/Developer/anviking.github.io",
+		"/Users/Johannes/Developer/anviking.github.io/_posts"
+	],
+	"file_history":
+	[
+		"/Users/Johannes/Developer/MathCalc/Artwork/App Store Icon.png",
+		"/Users/Johannes/Developer/anviking.github.io/_posts/2015-03-09-Variation",
+		"/Users/Johannes/Developer/anviking.github.io/anviking.sublime-project",
+		"/Users/Johannes/Developer/anviking.github.io/README.md",
+		"/Users/Johannes/Developer/anviking.github.io/_posts/2015-03-02-Not-a-blog.md",
+		"/Users/Johannes/Developer/anviking.github.io/_posts/2015-03-03-Chord-Analysis.html",
+		"/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/dates.py",
+		"/Users/Johannes/Developer/Stocks/stocks/swarm.py",
+		"/Users/Johannes/Developer/Stocks/stocks/strategy.py",
+		"/Users/Johannes/Developer/Stocks/stocks/Stock.py",
+		"/Users/Johannes/Developer/anviking.github.io/_layouts/default.html",
+		"/Users/Johannes/Developer/anviking.github.io/_layouts/post.html",
+		"/Users/Johannes/Developer/anviking.github.io/_layouts/page.html",
+		"/Users/Johannes/Developer/anviking.github.io/_sass/base/_variables.scss",
+		"/Users/Johannes/Developer/anviking.github.io/index.html",
+		"/Users/Johannes/Developer/anviking.github.io/_config.yml",
+		"/Users/Johannes/Developer/anviking.github.io/about.md",
+		"/Users/Johannes/Developer/anviking.github.io/_posts/2015-03-03-New-Blog.md",
+		"/Users/Johannes/Developer/anviking.github.io/_sass/layouts/_index.scss",
+		"/Users/Johannes/Developer/anviking.github.io/_sass/external/_syntax.scss",
+		"/Users/Johannes/Developer/anviking.github.io/_site/2014/11/30/sample-post.html",
+		"/Users/Johannes/Developer/anviking.github.io/.sass-cache/e909da4c8edfdab7c3fd4b20e98672861da78930/_syntax.scssc",
+		"/Users/Johannes/Developer/Stocks/swarm/close_1_TemporalAnomaly_HyperSearchJobID.pkl",
+		"/Users/Johannes/Developer/Stocks/swarm/close_1_TemporalAnomaly_Report.csv",
+		"/Users/Johannes/Developer/Stocks/stocks/test.py",
+		"/Users/Johannes/Developer/Stocks/stocks/database.sqlite-journal",
+		"/Users/Johannes/Developer/Stocks/<auto generated wrapper of get() function>",
+		"/Users/Johannes/Developer/Stocks/stocks/models.py",
+		"/Users/Johannes/Developer/Stocks/stocks/swarm/changePercentage_HyperSearchJobID.pkl",
+		"/Users/Johannes/Developer/Stocks/stocks/Cortical.py",
+		"/Users/Johannes/Developer/Stocks/swarmDataCSV/low5_5_TemporalAnomaly.csv",
+		"/Users/Johannes/Developer/Stocks/stocks/DefaultOrderedDictionary.py",
+		"/Users/Johannes/Developer/Stocks/stocks/swarm_description.py",
+		"/Users/Johannes/Developer/Stocks/stocks/graph.py",
+		"/Users/Johannes/Developer/Stocks/.gitignore",
+		"/Users/Johannes/Developer/Stocks/anomaly.py",
+		"/Users/Johannes/Developer/Stocks/high.py",
+		"/Users/Johannes/Developer/Stocks/high5.py",
+		"/Users/Johannes/Developer/Stocks/movingAverage.py",
+		"/Users/Johannes/Developer/Stocks/pybraintest.py",
+		"/Users/Johannes/Developer/Stocks/README.md",
+		"/Users/Johannes/Developer/Stocks/test2.py",
+		"/Users/Johannes/Developer/Stocks/data/aapl.csv",
+		"/Users/Johannes/Developer/Stocks/data/abgb.csv",
+		"/Users/Johannes/Developer/Stocks/data/acts.csv",
+		"/Users/Johannes/Developer/Stocks/stocks/run.py",
+		"/Users/Johannes/Developer/Stocks/stocks/swarm/googl_Report.csv",
+		"/Users/Johannes/Developer/Stocks/data/gk.csv",
+		"/Users/Johannes/Developer/Stocks/stocks/changePercentage.py",
+		"/Users/Johannes/Developer/Stocks/data/cboe.csv",
+		"/Users/Johannes/Developer/Stocks/stocks/swarm/changePercentage_Report.csv",
+		"/Users/Johannes/Developer/octokit.rb/lib/octokit/user.rb",
+		"/Users/Johannes/Developer/octokit.rb/spec/cassettes/Octokit_Client_Labels/_delete_label_/deletes_a_label_from_the_repository.json",
+		"/Users/Johannes/Developer/octokit.rb/lib/octokit/default.rb",
+		"/Users/Johannes/Developer/octokit.rb/spec/cassettes/Octokit_Client_Gists/when_authenticated/_delete_gist/deletes_an_existing_gist.json",
+		"/Users/Johannes/Developer/octokit.rb/spec/cassettes/Octokit_Client_Milestones/with_milestone/_delete_milestone/deletes_a_milestone_from_a_repository.json",
+		"/Users/Johannes/Developer/octokit.rb/spec/cassettes/Octokit_Client_Deployments/_deployment_statuses/lists_deployment_statuses.json",
+		"/Users/Johannes/Developer/octokit.rb/spec/cassettes/Octokit_Client_PubSubHubbub/unsubscribe_service_hook/unsubscribes_to_stop_receiving_events_on_specified_topic.json",
+		"/Users/Johannes/Developer/octokit.rb/spec/cassettes/Octokit_Client_Events/_organization_public_events/returns_an_organization_s_public_events.json",
+		"/Users/Johannes/Developer/octokit.rb/spec/cassettes/Octokit_Client_Hooks/with_org_hook/_ping_org_hook/pings_an_org_hook.json",
+		"/Users/Johannes/Developer/octokit.rb/spec/cassettes/Octokit_Client_Organizations/_organization_members/returns_all_public_members_of_an_organization.json",
+		"/Users/Johannes/Developer/octokit.rb/spec/cassettes/Octokit_Client_PullRequests/_pull_request_comment/returns_a_comment_on_a_pull_request.json",
+		"/Users/Johannes/Developer/octokit.rb/script/package",
+		"/Users/Johannes/Developer/octokit.rb/spec/octokit/user_spec.rb",
+		"/Users/Johannes/Developer/Stocks/test/plotter.py",
+		"/Users/Johannes/Developer/Stocks/test/data.txt",
+		"/Users/Johannes/Developer/Stocks/stocks/swarm/model_0/description.py",
+		"/Users/Johannes/Developer/Stocks/swarm/model_0/description.py",
+		"/Users/Johannes/Developer/Stocks/stocks/swarm/description.py",
+		"/Users/Johannes/Developer/Stocks/swarm/description.py",
+		"/Users/Johannes/Developer/Stocks/data/dar.csv",
+		"/Users/Johannes/Developer/Stocks/stocks/swarm/movingAverage_Report.2.csv",
+		"/Users/Johannes/Developer/Stocks/stocks/swarm/movingAverage_Report.1.csv",
+		"/Users/Johannes/Developer/Stocks/stocks/swarm/movingAverage_Report.0.csv",
+		"/Users/Johannes/Developer/Stocks/stocks/swarm/movingAverage_Report.csv",
+		"/Users/Johannes/Developer/Stocks/data/veco.csv",
+		"/Users/Johannes/Developer/Stocks/swarm/volume_1_TemporalAnomaly_HyperSearchJobID.pkl",
+		"/Users/Johannes/Developer/Stocks/swarm/volume_1_TemporalAnomaly_Report.csv",
+		"/Users/Johannes/Developer/Stocks/swarmDataCSV/volume_1_TemporalAnomaly.csv",
+		"/Users/Johannes/Developer/Stocks/data/sti.csv",
+		"/Users/Johannes/Developer/Stocks/data/sdyl.csv",
+		"/Users/Johannes/Library/Application Support/Sublime Text 3/Packages/SublimePythonIDE/SublimePython.sublime-settings",
+		"/Users/Johannes/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Library/Python/2.7/site-packages/pony/utils.py",
+		"/Users/Johannes/Desktop/synergy.conf",
+		"/Users/Johannes/Developer/iGitpad/Cartfile",
+		"/Users/Johannes/Desktop/test/Cartfile",
+		"/Users/Johannes/Applications/World of Warcraft/WTF/Config.wtf",
+		"/Users/Johannes/Developer/Stocks/source/swarm/aapl_Report.csv",
+		"/Users/Johannes/Developer/Stocks/source/model_params/low5_model_params.json",
+		"/Users/Johannes/Developer/Stocks/source/swarm/permutations.py",
+		"/Users/Johannes/Developer/Stocks/source/Stock.py",
+		"/Users/Johannes/Developer/Stocks/source/swarm.py",
+		"/Users/Johannes/Developer/Retina/data.json",
+		"/Users/Johannes/Developer/Retina/network_api_demo.py",
+		"/Users/Johannes/Developer/Retina/Cortical.py",
+		"/Users/Johannes/Developer/Retina/test_output.csv",
+		"/Users/Johannes/Developer/Retina/CorticalExperiment.py",
+		"/Users/Johannes/Developer/Retina/test_model_params.py",
+		"/Users/Johannes/Developer/Retina/retina.sublime-project",
+		"/Users/Johannes/Developer/Stocks/source/model_params/high5_model_params.py",
+		"/Users/Johannes/Developer/Stocks/source/model_params/low5_model_params.py",
+		"/Users/Johannes/Developer/Stocks/source/model_params/low_model_params.py",
+		"/Users/Johannes/Developer/Stocks/source/swarm/low5_Report.csv",
+		"/Users/Johannes/Developer/Stocks/source/model_params/high5_model_params.json",
+		"/Users/Johannes/Developer/Stocks/source/model_params/high_model_params.py",
+		"/Users/Johannes/Developer/Stocks/source/swarm_description.py",
+		"/Users/Johannes/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Johannes/Developer/nupic/examples/network/data.py",
+		"/Users/Johannes/Developer/repositories/nupic.vision/classifiers.py",
+		"/Users/Johannes/Developer/repositories/nupic.vision/demo.py",
+		"/Users/Johannes/Developer/nupic/examples/network/network_api_demo.py",
+		"/Users/Johannes/Developer/repositories/nupic.vision/sp_capacity.py",
+		"/Users/Johannes/Developer/repositories/nupic.vision/image_encoders.py",
+		"/Users/Johannes/Desktop/test.py",
+		"/Users/Johannes/Developer/one_gym/swarm/model_0/model_params.py",
+		"/Users/Johannes/Developer/Stocks/twitter/test.txt",
+		"/Users/Johannes/Developer/one_gym/test.py",
+		"/Users/Johannes/Developer/one_gym/swarm.py",
+		"/Users/Johannes/Developer/Stocks/source/YahooFinance.py",
+		"/Users/Johannes/Developer/Stocks/source/news.py",
+		"/Users/Johannes/Developer/Stocks/source/Twitter.py",
+		"/Users/Johannes/Developer/Stocks/source/Chronos.py",
+		"/Users/Johannes/Developer/Stocks/source/swarm/aapl_HyperSearchJobID.pkl",
+		"/Users/Johannes/Developer/Stocks/source/test.py",
+		"/Users/Johannes/Developer/Stocks/source/strategy.py",
+		"/Users/Johannes/Developer/Stocks/source/swarm/changePercentage_HyperSearchJobID.pkl",
+		"/Users/Johannes/Developer/Stocks/source/swarm/shouldBuy_HyperSearchJobID.pkl"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"}}\n",
+			"field\\=volume\": ([\\d\\.]+)\\},\\s+u'saved': False\\} \\(elapsed time: ([\\d.]+)",
+			"field\\=volume\": ([\\d\\.]+)\\},\\s+u'saved': False\\} \\(elapsed time: ([\\d.]+",
+			"field\\=volume\": ([\\d\\.]+)\\},\\s+u'saved': False\\} \\(elapsed time: ([\\d.]+)",
+			"field\\=volume\\\": ([\\d\\.]+)\\},\\s+u'saved': False\\} \\(elapsed time: ([\\d.]+)",
+			"field\\=volume\\\": \\d+",
+			"field\\=volume\\\": \\d+\\",
+			"field\\=volume\\\": \\d+\\}",
+			"field\\=volume\\\": \\d+\\},\\s+u'saved': True\\}",
+			"field\\=volume\\\": \\d+\\},\\\n    u'saved': True\\}",
+			"field\\=volume\\\": \\d+\\},\n    u'saved': True\\}",
+			"self.model",
+			"timestamp",
+			",",
+			" ",
+			"poor",
+			"poor, inferior, second-rate, second-class, unsatisfactory, inadequate, unacceptable, not up to scratch, not up to par, deficient, imperfect, defective, faulty, shoddy, amateurish, careless, negligent; dreadful, awful, terrible, abominable, frightful, atrocious, disgraceful, deplorable, hopeless, worthless, laughable, lamentable, miserable, sorry, third-rate, diabolical, execrable; incompetent, inept, inexpert, ineffectual; informal crummy, rotten, pathetic, useless, woeful, bum, lousy, ropy, appalling, abysmal, pitiful, God-awful, dire, poxy, not up to snuff, the pits; Brit. informal duff, chronic, rubbish, pants, a load of pants; vulgar slang crap, shit, chickenshit; rare egregious",
+			"poor, inferior, second-rate, second-class, unsatisfactory, inadequate, unacceptable, not up to scratch, not up to par, deficient, imperfect, defective, faulty, shoddy, amateurish, careless, negligent; dreadful, awful, terrible, abominable, frightful, atrocious, disgraceful, deplorable, hopeless, worthless, laughable, lamentable, miserable, sorry, third-rate, diabolical, execrable; incompetent, inept, inexpert, ineffectual; informal crummy, rotten, pathetic, useless, woeful, bum, lousy, ropy, appalling, abysmal, pitiful, God-awful, dire, poxy, not up to snuff, the pits; Brit. informal duff, chronic, rubbish, pants, a load of pants; vulgar slang crap, shit, chickenshit; rare egregious. ANTONYMS good, excellent, skilled",
+			"\"minValue\": STOCK_MIN,\n        \"maxValue\": STOCK_MAX,",
+			"resultBuy",
+			"append",
+			" => ",
+			"=>",
+			"(\\n[a-z]+) ",
+			"(?<=(\\n[a-z].)) ",
+			" to ",
+			"Max",
+			"distance",
+			"closePrice",
+			"coincidences",
+			"comission",
+			"currentDate",
+			"adju",
+			"predictionSteps",
+			"inputPath",
+			"predictionSteps",
+			"outputLabel",
+			"high5",
+			"closePrice",
+			"hasBoughtStocks",
+			"dateFormatList",
+			"headers",
+			"self.headers",
+			"print",
+			"close",
+			"Av1",
+			"Av",
+			"AV",
+			"AV2",
+			"lastRow",
+			"row",
+			"lastRow",
+			"nextDay",
+			"lastPrediction",
+			"Prediction",
+			"prediction",
+			"Prediction",
+			"prediction",
+			"Prediction",
+			"prediction",
+			"Prediction",
+			"prediction",
+			"Prediction",
+			"prediction",
+			"lastPrediction",
+			"data",
+			"nextDay",
+			"newPrediction",
+			"target",
+			"0.0",
+			"rsiCol",
+			"color",
+			"      \"minValue\": 0.0\n      \"maxValue\": 1000.0,",
+			"      \"minValue\": 0.0\n      \"maxValue\": 1000.0,\n      \"maxValue\": 1000.0,",
+			"high",
+			"None",
+			"-201",
+			"201",
+			"placeholder",
+			"ä",
+			"date",
+			"x",
+			"anomalyLikelyhood",
+			"Data",
+			"dateformat",
+			"lower",
+			"key"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\",",
+			" \"",
+			" \" ",
+			"\"encoderType\" : \"AdaptiveScalarEncoder\",",
+			",",
+			"\\1,",
+			",",
+			"self.__class__.headers",
+			"      \"minValue\": STOCK_MIN,\n      \"maxValue\": STOCK_MAX,"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_posts/2015-03-03-Chord-Analysis.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"git_savvy.file_path": "/Users/Johannes/Developer/anviking.github.io/_posts/2015-03-03-Chord-Analysis.md",
+							"git_savvy.repo_path": "/Users/Johannes/Developer/anviking.github.io",
+							"parser": "github",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"target": "disk"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2015-03-09-Silly variation of femenist song - or - what am I doing with my life?.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 700,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_savvy.file_path": "/Users/Johannes/Developer/anviking.github.io/_posts/2015-03-09-Variation",
+							"git_savvy.repo_path": "/Users/Johannes/Developer/anviking.github.io",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_posts/2015-04-12-Not Studying.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1013,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								450,
+								450
+							]
+						],
+						"settings":
+						{
+							"git_savvy.file_path": "/Users/Johannes/Developer/anviking.github.io/_posts/2015-04-12-Not Studying",
+							"git_savvy.repo_path": "/Users/Johannes/Developer/anviking.github.io",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								947,
+								961
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"git_savvy.file_path": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "about.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"git_savvy.file_path": "/Users/Johannes/Developer/anviking.github.io/about.md",
+							"git_savvy.repo_path": "/Users/Johannes/Developer/anviking.github.io",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 92.0
+	},
+	"output.exec":
+	{
+		"height": 388.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 92.0
+	},
+	"pinned_build_system": "",
+	"project": "anviking.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"strate",
+				"stocks/strategy.py"
+			],
+			[
+				"stock",
+				"stocks/Stock.py"
+			],
+			[
+				"ym",
+				"_config.yml"
+			],
+			[
+				"stra",
+				"stocks/strategy.py"
+			],
+			[
+				"ex",
+				"experiment.py"
+			],
+			[
+				"mode",
+				"stocks/models.py"
+			],
+			[
+				"model",
+				"stocks/models.py"
+			],
+			[
+				"pl",
+				"plot.py"
+			],
+			[
+				"vol",
+				"volume.py"
+			],
+			[
+				"run",
+				"stocks/run.py"
+			],
+			[
+				"grap",
+				"stocks/graph.py"
+			],
+			[
+				"swarm",
+				"stocks/swarm.py"
+			],
+			[
+				"user",
+				"lib/octokit/user.rb"
+			],
+			[
+				"desc",
+				"stocks/swarm_description.py"
+			],
+			[
+				"swa",
+				"stocks/swarm.py"
+			],
+			[
+				"yahoo",
+				"YahooFinance.py"
+			],
+			[
+				"gra",
+				"graph.py"
+			],
+			[
+				"sto",
+				"Stock.py"
+			],
+			[
+				"s",
+				"swarm.py"
+			],
+			[
+				"yaho",
+				"YahooFinance.py"
+			],
+			[
+				"d",
+				"data.json"
+			],
+			[
+				"cort",
+				"Cortical.py"
+			],
+			[
+				"json",
+				"data.json"
+			],
+			[
+				"mod",
+				"test_model_params.py"
+			],
+			[
+				"data.",
+				"data.json"
+			],
+			[
+				"data",
+				"data.json"
+			],
+			[
+				"low",
+				"model_params/low5_model_params.py"
+			],
+			[
+				"swar",
+				"swarm_description.py"
+			],
+			[
+				"cor",
+				"Cortical.py"
+			],
+			[
+				"",
+				"network_api_demo.py"
+			],
+			[
+				"image",
+				"image_encoders.py"
+			],
+			[
+				"demp",
+				"demo.py"
+			],
+			[
+				"dataset",
+				"dataset_readers.py"
+			],
+			[
+				"test",
+				"test.csv"
+			],
+			[
+				"stoc",
+				"Stock.py"
+			],
+			[
+				"twit",
+				"Twitter.py"
+			],
+			[
+				"swarmdes",
+				"swarm_description.py"
+			],
+			[
+				"strat",
+				"strategy.py"
+			],
+			[
+				"rnu",
+				"run.py"
+			],
+			[
+				"star",
+				"strategy.py"
+			],
+			[
+				"chron",
+				"Chronos.py"
+			],
+			[
+				"modelparams",
+				"model_params/low5_model_params.py"
+			],
+			[
+				"strateg",
+				"strategy.py"
+			],
+			[
+				"tren",
+				"trends.py"
+			],
+			[
+				"yah",
+				"YahooFinance.py"
+			],
+			[
+				"shoul",
+				"model_params/shouldBuy_model_params.py"
+			],
+			[
+				"descr",
+				"swarm_description.py"
+			],
+			[
+				"sw",
+				"swarm.py"
+			],
+			[
+				"hi",
+				"errorMetrics/high.py"
+			],
+			[
+				"change",
+				"errorMetrics/changePercentage.py"
+			],
+			[
+				"gk",
+				"data/gk.csv"
+			],
+			[
+				"hig",
+				"errorMetrics/high.py"
+			],
+			[
+				"aapl",
+				"output/aapl.csv"
+			],
+			[
+				"graph",
+				"graph.py"
+			],
+			[
+				"nymx",
+				"output/nymx.csv"
+			],
+			[
+				"googl",
+				"data/googl.csv"
+			],
+			[
+				"ru",
+				"run.py"
+			],
+			[
+				"itw",
+				"output/itw.csv"
+			],
+			[
+				"histogr",
+				"histogram.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Developer/Stocks/stocks.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dt",
+				"Data"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
