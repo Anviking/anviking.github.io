@@ -8,6 +8,7 @@
 
 html {
 	padding: 0px;
+	overflow-x: hidden;
 }
 
 body {
@@ -18,8 +19,13 @@ body {
 	background-color: black;
 	-webkit-background-size: cover;
 	background-attachment: fixed;
+	margin-left: 0px;
+	margin-right: 0px;
+	/*background-color: #E8E8E6;*/
+
+
 	/*
-//	min-height: 100%;
+	min-height: 100%;
 	min-width: 100%;
 	padding: 0px;
 	margin: 0px;
@@ -29,6 +35,7 @@ body {
 	width: 100%;
 	*/
 }
+
 
 #layer {
     /* background-color: rgba(248, 247, 216, 0.7); */
@@ -277,3 +284,16 @@ animation-delay: 1.6s;
 }
 
 
+@media screen and (max-width:700px){
+    .card .marketing-title {
+		font-size: 60px;
+	}
+
+	body {
+		background-size: 200%;
+	}
+
+	.card {
+		margin-top: 70px;
+	}
+}
