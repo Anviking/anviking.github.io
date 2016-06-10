@@ -11,10 +11,10 @@ html {
 }
 
 body {
-	background-position: right;
+	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-image: url(img/ice.jpg);
+	background-image: url(img/me2.jpg);
 	background-color: black;
 	-webkit-background-size: cover;
 	background-attachment: fixed;
@@ -139,7 +139,7 @@ text-transform: uppercase;
 }
 
 .card h2 {
-	color: rgb(68, 113, 167);
+	color: rgb(103, 98, 98);
 	font-size: 15px;
 	line-height: 21px;
 	font-weight: 500;
@@ -153,7 +153,7 @@ text-transform: uppercase;
 }
 
 .card a {
-	color: white;
+	color: rgb(96, 74, 59);
 	line-height: 35px;
 }
 
