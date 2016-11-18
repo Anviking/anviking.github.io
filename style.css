@@ -12,10 +12,10 @@ html {
 }
 
 body {
-	background-position: center;
+	background-position: right;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-image: url(img/me.jpg);
+	background-image: url(img/ice.jpg);
 	background-color: black;
 	-webkit-background-size: cover;
 	background-attachment: fixed;
@@ -91,7 +91,7 @@ p {
 }
 
 .card .marketing-sub-title {
-	color: rgb(255, 255, 255);
+	color: white);
 cursor: default;
 display: inline-block;
 font-family: 'Chronicle SSm A', 'Chronicle SSm B', Georgia, serif;
@@ -109,7 +109,7 @@ text-align: center;
 }
 
 .card .marketing-title {
-	color: rgb(255, 255, 255);
+	color: white;
 cursor: default;
 display: block;
 font-family: 'Gotham A', 'Gotham B', sans-serif;
@@ -160,7 +160,7 @@ text-transform: uppercase;
 }
 
 .card a {
-	color: rgb(96, 74, 59);
+	color: rgb(64, 81, 96);
 	line-height: 35px;
 }
 
@@ -290,7 +290,7 @@ animation-delay: 1.6s;
 	}
 
 	body {
-		background-size: 200%;
+		//background-size: 100%;
 	}
 
 	.card {
