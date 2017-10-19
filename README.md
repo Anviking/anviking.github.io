@@ -1,2 +1,0 @@
-anviking.github.io
-==================
