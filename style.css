@@ -1,11 +1,11 @@
 h1 {
 	font-family: Montserrat-Medium;
-	font-size: 42px;
+	font-size: 68px;
 	font-weight: 400;
 	/*color: #FF0000;*/
 
 	color: #C6EAFF;
-	text-shadow: 2px -2px #FEFEFF
+	text-shadow: 3px -3px #FEFEFF
 }
 
 a {
@@ -20,14 +20,14 @@ a:hover {
 
 html {
 	font-family: HoeflerText-Regular;
-	font-size: 14px;
+	font-size: 22px;
 }
 p {
 	
 	color: #000000;
-	line-height: 20px;
+	line-height: 30px;
 	color: #555555;
-	max-width: 375px;
+	max-width: 600px;
 }
 
 .vertical-line {
@@ -41,7 +41,7 @@ p {
 
 .bg {
 	background: url(img/ice.jpg) no-repeat;
-	background-size: 1280px 720px;
+	background-size: 1920px 1080px;
 }
 .float-right {
 	position: absolute;
@@ -57,7 +57,7 @@ span {
 
 
 body {
-	max-width: 500px;
+	max-width: 760px;
 	margin-left:auto;
     margin-right:auto;
     padding: 20px;
