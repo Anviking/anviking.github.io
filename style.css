@@ -1,7 +1,7 @@
 h1 {
-	font-family: Montserrat-Medium;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 68px;
-	font-weight: 400;
+	font-weight: 500;
 	/*color: #FF0000;*/
 
 	color: #C6EAFF;
@@ -19,7 +19,7 @@ a:hover {
 }
 
 html {
-	font-family: HoeflerText-Regular;
+	font-family: HoeflerText-Regular, Times, serif;
 	font-size: 22px;
 }
 p {
