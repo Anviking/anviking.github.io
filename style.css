@@ -39,10 +39,6 @@ p {
 	width: 1pt;
 }
 
-.bg {
-	background: url(img/ice.jpg) no-repeat;
-	background-size: 1920px 1080px;
-}
 .float-right {
 	position: absolute;
 	width: 33%;
@@ -56,10 +52,26 @@ span {
 }
 
 
-body {
+.main {
 	max-width: 760px;
 	margin-left:auto;
     margin-right:auto;
     padding: 20px;
+}
+
+.main div {
+	max-width:600px;
+}
+
+body img {
+	width: 100%;
+	object-fit: none;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+body {
+	padding: 0px;
+	margin: 0px;
 }
 
