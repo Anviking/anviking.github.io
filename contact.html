@@ -14,24 +14,26 @@
 		.bg {background-color: #161b27;}
 		button {
 			border-radius: 10px;
-			background-color: white;
+			background-color: #FFFFFF;
 			text-align: center;
 			padding: 20px;
 			width: 600px;
 			border: none;
+			transition: transform 0.3s;
+			transform: perspective( 900px ) rotate3d(1, 0, 0, 20deg);
+			
 		}
 		button:hover {
-			background: red;
+			background: #FFFFFF;
+			transform: perspective( 900px ) rotate3d(1, 0, 0, 18deg);
 		}
 	</style>
 	<title></title>
 </head>
 <body class="main">
 <h1>Contact</h1>
-<p>
-	Just nine months ago I stumbled across "Lectures on Types in Haskell" by Simon Peyton Jones. It opened my eyes to a new world. A world where the strange kinds of questions I'd asked myself since I started programming 8 years ago had been asked. A world that was interested in taking a step out and think, instead of accepting the limitations of the current system and blindly shipping. Now I knew that I had to study computer science, and wanted to work on creating new programming languages.
-
-</p>
+<p>Something goes here.</p>
+<p>Something more goes here.</p>
 <button>Send</button>
 </body>
 </html>

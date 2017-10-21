@@ -63,7 +63,7 @@ span {
 	max-width:600px;
 }
 
-body img {
+body .full {
 	width: 100%;
 	object-fit: none;
 	margin-left: 0px;
