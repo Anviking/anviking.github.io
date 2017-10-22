@@ -5,16 +5,20 @@ h1 {
 	/*color: #FF0000;*/
 
 	color: #C6EAFF;
-	text-shadow: 3px -3px #FEFEFF
+	text-shadow: 
+	3px -3px #FEFEFF,
+	2px -2px #FEFEFF,
+	1px -1px #FEFEFF;
+
 }
 
 a {
-	color: #667788;
+	color: #3f535a;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #778899;
+	color: #47aace;
 	text-decoration: underline;
 }
 
@@ -24,9 +28,8 @@ html {
 }
 p {
 	
-	color: #000000;
 	line-height: 30px;
-	color: #555555;
+	color: #4d6b73;
 	max-width: 600px;
 }
 

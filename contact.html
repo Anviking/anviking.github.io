@@ -8,19 +8,30 @@
 			color: #516370;
 		}
 		h1 {
-			color: white;
-			text-shadow: 1px -4px #AAAAAA
+			color: #FFF5F5;
+			text-shadow: 
+				1px -4px #444455,
+				1px -3px #444455,
+				1px -2px #444455,
+				1px -1px #444455;
 		}
-		.bg {background-color: #161b27;}
+		.bg {
+			background-color: #161b27;
+			height: 100%;
+			background: radial-gradient(at bottom, #1C1b27, #161b27);
+		}
 		button {
 			border-radius: 10px;
 			background-color: #FFFFFF;
 			text-align: center;
 			padding: 20px;
-			width: 600px;
+			width: 300px;
 			border: none;
 			transition: transform 0.3s;
 			transform: perspective( 900px ) rotate3d(1, 0, 0, 20deg);
+			font-size: 25px;
+			/*box-shadow: 1px 1px 20px rgba(255,100,0,0.5);*/
+			color: #FE5B35;
 			
 		}
 		button:hover {
