@@ -5,7 +5,7 @@ h1 {
 	/*color: #FF0000;*/
 
 	color: #C6EAFF;
-	text-shadow: 
+	text-shadow:
 	3px -3px #FEFEFF,
 	2px -2px #FEFEFF,
 	1px -1px #FEFEFF;
@@ -27,7 +27,7 @@ html {
 	font-size: 22px;
 }
 p {
-	
+
 	line-height: 30px;
 	color: #4d6b73;
 	max-width: 600px;
