@@ -14,9 +14,11 @@ h1 {
 
 h3 {
   font-family: "Montserrat";
-  color: #85c2df;
+  color: #48a4d1;
   margin-top: -40px;
   margin-bottom: -10px;
+  font-weight: 600;
+  font-size: 30px;
 }
 
 a {
