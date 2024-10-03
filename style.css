@@ -12,6 +12,13 @@ h1 {
 
 }
 
+h3 {
+  font-family: "Montserrat";
+  color: #85c2df;
+  margin-top: -40px;
+  margin-bottom: -10px;
+}
+
 a {
 	color: #3f535a;
 	text-decoration: none;
@@ -78,3 +85,7 @@ body {
 	margin: 0px;
 }
 
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
